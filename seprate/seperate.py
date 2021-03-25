@@ -1,7 +1,4 @@
 
-# Used to shuffle cards
-
-
 def seperate(li, key, var):
     sorted_list = []
     structured_lists = [[] for _ in range(len(key))]
